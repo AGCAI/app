@@ -1,6 +1,6 @@
 ## Interesting Application
 
-## Support
+<h1>Support</h1>
 
 <ul>
     <li>Application Technical Support</li>
