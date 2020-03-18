@@ -1,4 +1,4 @@
-## Interesting Application
+# Interesting Application
 
 <h1>Support</h1>
 
